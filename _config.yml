@@ -1,5 +1,5 @@
 title: Ben McDaniel # your name (or website title) here
-logo: "HEADSHOT.jpgraw=true" # your photo (or logo) here
+logo: "/images/HEADSHOT.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MSDA
   <br><br>
