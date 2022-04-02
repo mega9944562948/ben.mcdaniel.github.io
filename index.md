@@ -8,8 +8,8 @@
 <img src="images/accuracy.png?raw=true"/>
 
 ---
-[Diamond Attribute Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diamond Attribute Analysis](https://github.com/mega9944562948/Diamond-Attribute-Analysis/blob/main/diamond_attributes.pdf)
+<img src="images/diamond_attributes.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
