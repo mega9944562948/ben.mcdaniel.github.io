@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/sentiment_analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
