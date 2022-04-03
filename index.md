@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/sentiment_analysis)
+[Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
 
 ---
