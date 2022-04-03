@@ -21,7 +21,10 @@
 
 [Dimensionality Reduction](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Dimensionality%20Reduction%20PCA.pdf)
 <img src="images/PCA.png?raw=true"/>
-- [Project 2 Title](http://example.com/)
+---
+[Market Basket Analysis](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Market%20Basket%20Analysis.pdf)
+<img src="images/Market_basket.png?raw=true"/>
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
