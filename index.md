@@ -14,23 +14,22 @@
 ---
 [Dimensionality Reduction](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Dimensionality%20Reduction%20PCA.pdf)
 <img src="images/PCA.png?raw=true"/>
+
 ---
 [Market Basket Analysis](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Market%20Basket%20Analysis.pdf)
 <img src="images/Market_basket.png?raw=true"/>
+
 ---
 [SQL Database Build Telecommunications & Census Data](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/SQL%20DEMONSTRATION.pdf)
 <img src="images/SQL_demo.png?raw=true"/>
+
 ---
 [Predicting Customer Tenure With Random Forest Regression](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Random_Forest_Customer_Tenure.pdf)
 <img src="images/RFR_regression.png?raw=true"/>
----
-[Project 5 Title](http://example.com/)
 
 ---
-
-
-
+[Customer Churn Classification](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Customer_Churn_Classification.pdf)
+<img src="images/Churn_classification.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
