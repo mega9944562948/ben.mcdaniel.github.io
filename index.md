@@ -24,8 +24,10 @@
 ---
 [Market Basket Analysis](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Market%20Basket%20Analysis.pdf)
 <img src="images/Market_basket.png?raw=true"/>
-
-- [Project 3 Title](http://example.com/)
+---
+[SQL Database Build](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/SQL%20DEMONSTRATION.pdf)
+<img src="images/SQL_demo.png?raw=true"/>
+---
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
