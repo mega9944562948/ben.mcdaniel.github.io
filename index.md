@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Analysis 
 
 [Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
@@ -17,9 +17,10 @@
 
 ---
 
-### Category Name 2
+### Sample Projects
 
-- [Project 1 Title](http://example.com/)
+[Dimensionality Reduction](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Dimensionality%20Reduction%20PCA.pdf)
+<img src="images/PCA.png?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
