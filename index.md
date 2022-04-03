@@ -1,9 +1,5 @@
 ## Portfolio
 
----
-
-### Analysis 
-
 [Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
 
@@ -16,9 +12,6 @@
 <img src="images/clusters.jpg?raw=true"/>
 
 ---
-
-### Sample Projects
-
 [Dimensionality Reduction](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Dimensionality%20Reduction%20PCA.pdf)
 <img src="images/PCA.png?raw=true"/>
 ---
