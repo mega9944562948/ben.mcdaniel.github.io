@@ -9,7 +9,7 @@
 [Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
 <img src="images/diamond_attributes.png?raw=true"/>
 ---
-[Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
+- [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 ---
 [Customer Segmentation](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Customer_segmentation.pdf)
 <img src="images/clusters.jpg?raw=true"/>
