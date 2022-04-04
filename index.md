@@ -41,3 +41,7 @@
 ---
 [Customer Churn Presentation](pdf/Churn_presentation.pdf)
 <img src="images/churn_dash.png?raw=true"/>
+
+---
+[Predicting Customer Tenure](pdf/multiple_reg_tenure.pdf)
+<img src="images/reg_tenure.png?raw=true"/>
