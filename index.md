@@ -1,9 +1,7 @@
-[Revenue Forecasting]()
-<img src="?raw=true"/>
+[Revenue Forecasting](pdf/revenue_prediction.pdf)
+<img src="images/forecast.png?raw=true"/>
 
-
-
-
+---
 [Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
 
