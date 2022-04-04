@@ -37,4 +37,4 @@
 
 ---
 [Customer Churn Presentation](pdf/Churn_presentation.pdf)
-<img src="images/Churn_dash.png?raw=true"/>
+<img src="images/churn_dash.png?raw=true"/>
