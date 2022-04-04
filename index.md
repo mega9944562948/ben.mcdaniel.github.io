@@ -28,4 +28,4 @@
 [Customer Churn Classification](pdf/Customer_Churn_Classification.pdf)
 <img src="images/Churn_classification.png?raw=true"/>
 ---
-[Customer Churn Presentation](pdf/Churn_presentation.pdf)
+- [Customer Churn Presentation](pdf/Churn_presentation.pdf)
