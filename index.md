@@ -9,8 +9,7 @@
 [Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
 <img src="images/diamond_attributes.png?raw=true"/>
 
----
-- [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
+[Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 ---
 
 [Customer Segmentation](pdf/Customer_segmentation.pdf)
@@ -27,6 +26,7 @@
 ---
 [SQL Database Build Telecommunications & Census Data](pdf/SQL%20DEMONSTRATION.pdf)
 <img src="images/SQL_demo.png?raw=true"/>
+
 ---
 [Predicting Customer Tenure With Random Forest Regression](pdf/Random_Forest_Customer_Tenure.pdf)
 <img src="images/RFR_regression.png?raw=true"/>
@@ -36,4 +36,4 @@
 <img src="images/Churn_classification.png?raw=true"/>
 
 ---
-- [Customer Churn Presentation](pdf/Churn_presentation.pdf)
+[Customer Churn Presentation](pdf/Churn_presentation.pdf)
