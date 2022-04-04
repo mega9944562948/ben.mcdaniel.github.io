@@ -2,7 +2,7 @@
 <img src="images/forecast.png?raw=true"/>
 
 ---
-[Amazon Review Sentiment Analysis CNN/LSTM](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/amazon_sentiment.pdf)
+[Amazon Review Sentiment Analysis CNN/LSTM](pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
 
 ---
@@ -13,19 +13,19 @@
 - [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 ---
 
-[Customer Segmentation](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Customer_segmentation.pdf)
+[Customer Segmentation](pdf/Customer_segmentation.pdf)
 <img src="images/clusters.jpg?raw=true"/>
 
 ---
-[Dimensionality Reduction](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Dimensionality%20Reduction%20PCA.pdf)
+[Dimensionality Reduction](pdf/Dimensionality%20Reduction%20PCA.pdf)
 <img src="images/PCA.png?raw=true"/>
 
 ---
-[Market Basket Analysis](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/Market%20Basket%20Analysis.pdf)
+[Market Basket Analysis](pdf/Market%20Basket%20Analysis.pdf)
 <img src="images/Market_basket.png?raw=true"/>
 
 ---
-[SQL Database Build Telecommunications & Census Data](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/SQL%20DEMONSTRATION.pdf)
+[SQL Database Build Telecommunications & Census Data](pdf/SQL%20DEMONSTRATION.pdf)
 <img src="images/SQL_demo.png?raw=true"/>
 ---
 [Predicting Customer Tenure With Random Forest Regression](pdf/Random_Forest_Customer_Tenure.pdf)
