@@ -1,14 +1,3 @@
-<head> 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WB03SR0FY7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WB03SR0FY7');
-</script>
-</head>
 title: Ben McDaniel # your name (or website title) here
 logo: "/images/HEADSHOT.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
