@@ -11,7 +11,10 @@
 <img src="images/diamond_attributes.png?raw=true"/>
 
 ---
+[Customer Churn Prediction](pdf/churn_logistic_regression.pdf)
+<img src="images/logistic_churn.png?raw=true"/>
 
+---
 [Customer Segmentation](pdf/Customer_segmentation.pdf)
 <img src="images/clusters.jpg?raw=true"/>
 
