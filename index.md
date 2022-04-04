@@ -45,3 +45,7 @@
 ---
 [Predicting Customer Tenure](pdf/multiple_reg_tenure.pdf)
 <img src="images/reg_tenure.png?raw=true"/>
+
+---
+For More Projects Please Browse the Repository Below:
+[Additional Projects](mega9944562948/additional_projects)
