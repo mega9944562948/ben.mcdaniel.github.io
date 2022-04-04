@@ -7,9 +7,7 @@
 
 ---
 [Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
-
 [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
----
 <img src="images/diamond_attributes.png?raw=true"/>
 
 ---
