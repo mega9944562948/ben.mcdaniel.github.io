@@ -6,10 +6,10 @@
 <img src="images/accuracy.png?raw=true"/>
 
 ---
+[Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 [Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
 <img src="images/diamond_attributes.png?raw=true"/>
 
-[Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 ---
 
 [Customer Segmentation](pdf/Customer_segmentation.pdf)
