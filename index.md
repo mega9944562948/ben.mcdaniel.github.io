@@ -6,8 +6,8 @@
 <img src="images/accuracy.png?raw=true"/>
 
 ---
-[Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
-[Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
+1. [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
+2. [Diamond Attribute Analysis](pdf/diamond_attribute_analysis.pdf)
 <img src="images/diamond_attributes.png?raw=true"/>
 
 ---
