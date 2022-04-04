@@ -7,6 +7,7 @@
 
 ---
 [Diamond Attribute Analysis](https://github.com/mega9944562948/mega9944562948.github.io/blob/master/pdf/diamond_attribute_analysis.pdf)
+---
 [Diamond Attribute Presentation](pdf/diamond_attributes.pdf)
 <img src="images/diamond_attributes.png?raw=true"/>
 
