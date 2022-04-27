@@ -1,8 +1,8 @@
-[Revenue Forecasting](pdf/revenue_prediction.pdf)
+[Link: Revenue Forecasting](pdf/revenue_prediction.pdf)
 <img src="images/forecast.png?raw=true"/>
 
 ---
-[Amazon Review Sentiment Analysis CNN/LSTM](pdf/amazon_sentiment.pdf)
+[Link: Amazon Review Sentiment Analysis CNN/LSTM](pdf/amazon_sentiment.pdf)
 <img src="images/accuracy.png?raw=true"/>
 
 ---
